@@ -1,0 +1,5 @@
+Ubuntu comand practice
+This file is edited with vi.
+Ubuntu is useful for programming.
+End of file.
+Ubuntu comand practice

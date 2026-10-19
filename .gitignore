@@ -1,0 +1,16 @@
+# Build outputs
+*.o
+*.a
+*.so
+*.so.*
+/calc/calc_static
+/calc/calc_shared
+/calc/calc_dynamic
+
+# Profiling / crash outputs
+gmon.out
+core
+*.core
+
+# macOS metadata
+.DS_Store

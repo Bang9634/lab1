@@ -1,0 +1,4 @@
+add = 13.00
+subtract = 7.00
+multiply = 30.00
+divide = 3.33
